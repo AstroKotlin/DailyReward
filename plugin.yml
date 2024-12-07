@@ -1,0 +1,11 @@
+name: DailyReward
+version: 1.0.0
+api: 5.0.0
+author: AstroKotlin
+main: AstroKotlin\DailyReward\main
+website: https://astrokotlin.github.io/
+permissions:
+ dailyreward.rw.cmd:
+  default: true
+ dailyreward.edit.cmd:
+  default: op
